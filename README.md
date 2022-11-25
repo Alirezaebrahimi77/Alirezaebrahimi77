@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alireza
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React
+- 👋 This is Alireza
+- 👀 Specialized in JavaScript
+- 🌱 React developer
 - 📫 alireza27163@gmail.com
 
 <!---
